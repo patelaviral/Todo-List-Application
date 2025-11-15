@@ -76,8 +76,8 @@ http://localhost:8080/tasks
 ```
 
 
-📷 Screenshots
+# 📷 Screenshots
 ![image alt](https://github.com/patelaviral/Todo-List-Application/blob/5785a0adf6a33a698109623a66e8a0d0d51c0869/todo_application.png)
-🤝 Contributing
+# 🤝 Contributing
 
 Pull requests are welcome. For major changes, please open an issue first.
