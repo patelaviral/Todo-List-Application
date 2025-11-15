@@ -35,12 +35,12 @@ src/
 # 🔗 Endpoints Overview
 ![image alt](https://github.com/patelaviral/Todo-List-Application/blob/5785a0adf6a33a698109623a66e8a0d0d51c0869/endpoint_for_todo.png)
 ```
-Method	Endpoint	           Description	                  Parameters	     Returns
-GET	    /tasks	             Displays all tasks	            None	           tasks view
-POST	  /tasks	             Creates a new task	            title (String)	 Redirect to /tasks
-POST	  /tasks/{id}/update	 Updates task title by ID	      id, title	       Redirect to /tasks
-GET	    /tasks/{id}/delete	 Deletes task by ID	            id	             Redirect to /tasks
-GET	    /tasks/{id}/toggle	 Toggles task completed status	id	             Redirect to /tasks
+Method	 Endpoint	           Description	                     Parameters	      Returns
+GET	    /tasks	             Displays all tasks	              None	            tasks view
+POST	   /tasks	             Creates a new task	              title (String)	  Redirect to /tasks
+POST	   /tasks/{id}/update	 Updates task title by ID	        id, title	       Redirect to /tasks
+GET	    /tasks/{id}/delete	 Deletes task by ID	              id	              Redirect to /tasks
+GET	    /tasks/{id}/toggle	 Toggles task completed status	   id	              Redirect to /tasks
 ```
 
 
