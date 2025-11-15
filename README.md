@@ -18,6 +18,7 @@ Database: MySQL
 Build Tool: Maven
 
 # 📁 Project Structure
+```
 src/
  ├── main/
  │   ├── java/com/example/todo
@@ -29,6 +30,7 @@ src/
  │        ├── templates/
  │        │     └── tasks.html
  │        └── application.properties
+```
 
 # 🔗 Endpoints Overview
 ![image alt](https://github.com/patelaviral/Todo-List-Application/blob/5785a0adf6a33a698109623a66e8a0d0d51c0869/endpoint_for_todo.png)
